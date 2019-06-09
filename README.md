@@ -16,4 +16,4 @@ https://towardsdatascience.com/minimizing-repair-costs-for-industrial-trucks-mac
 
 # Results
 
-An overall cost of 7890 has been attained on the test dataset provided.
+An overall cost of 7840 has been attained on the test dataset provided.
